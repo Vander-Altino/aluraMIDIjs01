@@ -35,9 +35,11 @@ Se você estiver aprendendo como eu, fique à vontade para clonar, testar e modi
 ![image](https://github.com/user-attachments/assets/03bb0996-50c9-4996-abee-2b9c6fa2ae5b)
 
 
-> Substitua o caminho acima pela pasta onde você colocar sua imagem no projeto (por exemplo, `assets/alura-midi.png`)
 
 ---
+## 🚀 Como testar Oline
+
+https://alura-mid-ijs01-122mqwuc9-vander-altinos-projects.vercel.app
 
 ## 🚀 Como testar localmente
 
